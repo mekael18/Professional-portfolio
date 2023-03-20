@@ -61,11 +61,11 @@ p {
 }
 
 .hero {
-    height: 90em;
+    height: 115em;
     width: 100%;
     margin-bottom: 2.5rem;
-    margin-top: 5rem;
-    background-image: url("../Assets/00B22B7E-13BF-429E-BC09-0CB49D116C2D.JPG");
+    margin-top: 6rem;
+    background-image: url("../Assets/Mekael.JPG");
     background-size: cover;
     background-position: center;
 }
@@ -104,7 +104,7 @@ p {
 .resume {
     margin-bottom: 1.5rem;
     padding: 2rem;
-    height: 16.5em;
+    height: 18em;
     width: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: darkgoldenrod;
