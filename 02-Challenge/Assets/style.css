@@ -169,8 +169,8 @@ p {
 }
 
 .resume p {
-    font-family: cursive;
-    font-size: 1.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.6rem;
     color: black;
     display: block;
     margin-bottom: 1.5rem;
@@ -186,8 +186,8 @@ p {
 }
 
 .about-me p {
-    font-family: cursive;
-    font-size: 1.4rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.7rem;
     color: black;
 }
 .content div {
